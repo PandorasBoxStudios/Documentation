@@ -11,7 +11,7 @@ Sobald man das Repository geklont hat, sollte man mit hilfe des Terminals (Windo
 
 Ich empfehle diese Videos: 
 [:simple-youtube: Mac](https://www.youtube.com/watch?v=xlABhbnNrfI)
-[:simple-youtube: Windows](https://www.youtube.com/watch?v=NY7DHvo1XVM&t=386s)
+[:simple-youtube: Windows](https://www.youtube.com/watch?v=NY7DHvo1XVM&t)
 
 !!! warning "Wichtig!"
     Plugins sollte man in der Virtuellen Maschine installieren, also erst .venv\Scripts\activate.ps1 starten, dann die pip installs machen
