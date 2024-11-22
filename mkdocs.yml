@@ -2,7 +2,7 @@
 # Start Virtual venv: .venv\Scripts\activate.ps1
 
 site_name: Pandoras Box Dokumentation
-site_url: https://mydomain.org/mysite
+site_url: https://pandorasboxstudios.github.io/Documentation/
 theme:
   name: material
   font: 
