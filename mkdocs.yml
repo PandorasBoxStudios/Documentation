@@ -46,6 +46,8 @@ theme:
     - navigation.indexes
     - navigation.top
     - search.suggest
+    - content.action.edit
+    - content.action.view
 
 markdown_extensions:
   - attr_list
@@ -57,12 +59,16 @@ markdown_extensions:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      type: date
+  - git-authors
 
 extra_css:
   - stylesheets/logo.css
 
 repo_url: https://github.com/PandorasBoxStudios/Documentation
 repo_name: PandorasBoxStudios/Documentation
+edit_uri: edit/main/docs/
 
 extra:
   social:
