@@ -68,6 +68,7 @@ plugins:
   - git-revision-date-localized:
       type: date
   - git-authors
+  # Weird, dass der hier einen Error anzeigt (Bei mir zumindest) Das Plugin ist auf jeden Fall installiert
   - awesome-pages
 
 extra_css:
