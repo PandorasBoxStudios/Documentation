@@ -13,10 +13,10 @@ Ich empfehle diese Videos:
 [:simple-youtube: Mac](https://www.youtube.com/watch?v=xlABhbnNrfI)
 [:simple-youtube: Windows](https://www.youtube.com/watch?v=NY7DHvo1XVM&t=386s)
 
-Folgende Plugins sollte man außerdem noch mit Hilfe von pip installieren:
-
-!!! note warning "Wichtig!"
+!!! warning "Wichtig!"
     Plugins sollte man in der Virtuellen Maschine installieren, also erst .venv\Scripts\activate.ps1 starten, dann die pip installs machen
+
+Folgende Plugins sollte man außerdem noch mit Hilfe von pip installieren:
 
 ``` py
 pip install mkdocs-git-revision-date-localized-plugin
