@@ -21,6 +21,7 @@ Folgende Plugins sollte man außerdem noch mit Hilfe von pip installieren:
 ``` py
 pip install mkdocs-git-revision-date-localized-plugin
 pip install mkdocs-git-authors-plugin
+pip install mkdocs-awesome-pages-plugin
 ```
 
 
