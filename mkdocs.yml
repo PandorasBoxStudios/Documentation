@@ -1,5 +1,6 @@
 # Set, else venv cannot start -> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # Start Virtual venv: .venv\Scripts\activate.ps1
+# Preview: mkdocs serve
 
 site_name: Pandoras Box Dokumentation
 site_url: https://pandorasboxstudios.github.io/Documentation
