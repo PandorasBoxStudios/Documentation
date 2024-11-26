@@ -55,6 +55,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - tables
   - pymdownx.superfences
   - pymdownx.blocks.caption
   - pymdownx.snippets
@@ -72,6 +73,7 @@ plugins:
   - git-authors
   # Weird, dass der hier einen Error anzeigt (Bei mir zumindest) Das Plugin ist auf jeden Fall installiert
   - awesome-pages
+  - autolinks
 
 extra_css:
   - stylesheets/logo.css
